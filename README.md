@@ -32,7 +32,8 @@ SignFlow is a single-file Java desktop app that lets you manage, sign, and expor
 
 ```
 docs/
-  screenshot-home.png
+  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ca46e1bd-d042-41a5-887f-337c069854c7" />
+
   screenshot-signing.png
 ```
 
