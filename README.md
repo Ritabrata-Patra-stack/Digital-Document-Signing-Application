@@ -28,16 +28,14 @@ SignFlow is a single-file Java desktop app that lets you manage, sign, and expor
 
 ## Screenshots
 
-> _Add screenshots here by placing images in the repo and linking them below._
+<img width="1919" height="1079" alt="Screenshot 2026-04-07 215111" src="https://github.com/user-attachments/assets/6674a762-b6f4-41cc-a851-1d8cc7a88b32" />
+
+<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/0e608f92-f8e9-46db-86d4-fe9902cc19d7" />
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/18f36793-af25-4567-8fd6-c41c132aeabe" />
+
 
 ```
-docs/
-  <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/ca46e1bd-d042-41a5-887f-337c069854c7" />
-
-  screenshot-signing.png
-```
-
----
 
 ## Getting Started
 
@@ -114,9 +112,3 @@ Contributions are welcome. To contribute:
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
-
----
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
