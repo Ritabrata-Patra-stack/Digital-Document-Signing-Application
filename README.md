@@ -104,21 +104,6 @@ This approach works reliably for standard PDFs and keeps the project completely 
 
 ---
 
-## Customization
-
-All UI colors are defined as named constants at the top of `DocumentSigner.java`:
-
-```java
-static final Color DARK  = new Color(26, 26, 46);
-static final Color GOLD  = new Color(200, 169, 110);
-static final Color GREEN = new Color(34, 197, 94);
-// ...
-```
-
-Pre-loaded sample documents are initialized in `initDocs()` and can be replaced or extended freely.
-
----
-
 ## Contributing
 
 Contributions are welcome. To contribute:
