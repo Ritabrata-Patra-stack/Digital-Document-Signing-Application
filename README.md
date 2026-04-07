@@ -36,25 +36,23 @@ SignFlow is a single-file Java desktop app that lets you manage, sign, and expor
 
 
 ```
-
 ## Getting Started
-
 ### Prerequisites
-
+ 
 - Java 11 or higher ([Download JDK](https://adoptium.net/))
-
+ 
 ### Build & Run
-
+ 
 ```bash
 # Compile
 javac DocumentSigner.java
-
+ 
 # Run
 java DocumentSigner
 ```
-
+ 
 That's it. No build tool, no classpath, no configuration files.
-
+ 
 ---
 
 ## Usage
