@@ -27,32 +27,32 @@ SignFlow is a single-file Java desktop app that lets you manage, sign, and expor
 ---
 
 ## Screenshots
-
-<img width="1919" height="1079" alt="Screenshot 2026-04-07 215111" src="https://github.com/user-attachments/assets/6674a762-b6f4-41cc-a851-1d8cc7a88b32" />
-
-<img width="1919" height="1074" alt="image" src="https://github.com/user-attachments/assets/0e608f92-f8e9-46db-86d4-fe9902cc19d7" />
-
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/18f36793-af25-4567-8fd6-c41c132aeabe" />
-
-
 ```
+```
+<img width="1919" height="1079" alt="Screenshot 2026-04-07 214529" src="https://github.com/user-attachments/assets/bb8453f9-8b5b-4bd5-a57c-1930dbb8eeb8" />
+<img width="1919" height="1074" alt="Screenshot 2026-04-07 215802" src="https://github.com/user-attachments/assets/ed8f2b94-0543-48d7-81f2-562c0bb6a1fe" />
+<img width="1919" height="1079" alt="Screenshot 2026-04-07 215857" src="https://github.com/user-attachments/assets/661d1229-d3d7-4238-bfdd-d50bfba737ff" />
+```
+```
+
 ## Getting Started
+
 ### Prerequisites
- 
+
 - Java 11 or higher ([Download JDK](https://adoptium.net/))
- 
+
 ### Build & Run
- 
+
 ```bash
 # Compile
 javac DocumentSigner.java
- 
+
 # Run
 java DocumentSigner
 ```
- 
+
 That's it. No build tool, no classpath, no configuration files.
- 
+
 ---
 
 ## Usage
@@ -101,6 +101,10 @@ This approach works reliably for standard PDFs and keeps the project completely 
 
 ---
 
+Pre-loaded sample documents are initialized in `initDocs()` and can be replaced or extended freely.
+
+---
+
 ## Contributing
 
 Contributions are welcome. To contribute:
@@ -110,3 +114,5 @@ Contributions are welcome. To contribute:
 3. Commit your changes (`git commit -m 'Add some feature'`)
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
+
+---
